@@ -1,0 +1,208 @@
+INFO  [LabManage] [2020-07-23 00:06:30.183] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 6476 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 00:06:30.183] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 00:06:31.407] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 00:06:33.188] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 00:06:33.203] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 00:06:35.476] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 00:06:37.800] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:06:38.898] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 9.457 seconds (JVM running for 11.241)
+INFO  [LabManage] [2020-07-23 00:06:39.575] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:06:39.577] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 00:06:39.717] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 00:16:34.262] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 14016 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 00:16:34.262] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 00:16:35.229] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 00:16:36.780] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 00:16:36.790] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 00:16:38.610] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 00:16:40.578] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:16:41.540] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 7.943 seconds (JVM running for 9.378)
+INFO  [LabManage] [2020-07-23 00:16:42.136] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:16:42.136] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 00:16:42.227] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 00:21:59.332] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 12088 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 00:21:59.332] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 00:22:00.518] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 00:22:02.241] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 00:22:02.251] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 00:22:04.299] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 00:22:06.372] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:22:07.433] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 8.949 seconds (JVM running for 11.134)
+INFO  [LabManage] [2020-07-23 00:22:08.099] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:22:08.099] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 00:22:08.352] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 00:26:52.540] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 13348 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 00:26:52.540] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 00:26:53.672] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 00:26:55.331] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 00:26:55.341] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 00:26:57.176] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 00:26:59.104] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:27:00.244] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 8.456 seconds (JVM running for 10.25)
+INFO  [LabManage] [2020-07-23 00:27:00.900] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:27:00.900] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 00:27:01.133] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 00:32:49.772] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 1552 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 00:32:49.772] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 00:32:50.843] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 00:32:52.503] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 00:32:52.513] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 00:32:54.456] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 00:32:56.480] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:32:57.674] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 8.639 seconds (JVM running for 10.286)
+INFO  [LabManage] [2020-07-23 00:32:58.280] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:32:58.280] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 00:32:58.696] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 00:35:04.838] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 7616 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 00:35:04.838] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 00:35:06.062] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 00:35:07.827] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 00:35:07.848] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 00:35:09.966] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 00:35:12.156] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:35:13.309] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 9.327 seconds (JVM running for 11.457)
+INFO  [LabManage] [2020-07-23 00:35:13.956] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:35:13.956] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 00:35:14.017] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 00:42:39.021] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 2200 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 00:42:39.021] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 00:42:40.213] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 00:42:41.912] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 00:42:41.922] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 00:42:43.955] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 00:42:45.956] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:42:47.022] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 8.812 seconds (JVM running for 10.81)
+INFO  [LabManage] [2020-07-23 00:42:47.639] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:42:47.641] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 00:42:47.681] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 00:50:55.335] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 16144 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 00:50:55.335] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 00:50:56.272] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 00:50:57.721] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 00:50:57.733] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 00:50:59.561] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 00:51:01.398] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:51:02.357] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 7.647 seconds (JVM running for 9.061)
+INFO  [LabManage] [2020-07-23 00:51:02.993] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:51:02.993] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 00:51:03.238] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 00:58:29.291] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 23752 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 00:58:29.293] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 00:58:30.564] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 00:58:32.690] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 00:58:32.709] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 00:58:35.069] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 00:58:37.480] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:58:38.816] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 10.19 seconds (JVM running for 11.798)
+INFO  [LabManage] [2020-07-23 00:58:39.541] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 00:58:39.541] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 00:58:40.099] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 01:09:07.223] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 2200 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 01:09:07.227] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 01:09:08.641] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 01:09:10.875] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 01:09:10.888] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 01:09:13.131] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 01:09:16.083] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 01:09:17.901] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 11.646 seconds (JVM running for 13.872)
+INFO  [LabManage] [2020-07-23 01:09:18.765] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 01:09:18.768] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 01:09:18.821] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 01:15:47.295] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 4496 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 01:15:47.298] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 01:15:48.876] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 01:15:50.992] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 01:15:51.008] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 01:15:53.358] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 01:15:56.992] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 01:15:59.130] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 12.945 seconds (JVM running for 15.177)
+INFO  [LabManage] [2020-07-23 01:15:59.825] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 01:15:59.827] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 01:15:59.844] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 08:52:12.323] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 4508 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 08:52:12.323] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 08:52:13.448] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 08:52:15.167] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 08:52:15.182] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 08:52:16.995] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 08:52:19.010] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 08:52:19.959] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 8.275 seconds (JVM running for 9.975)
+INFO  [LabManage] [2020-07-23 08:52:20.417] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 08:52:20.417] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 08:52:20.834] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 08:57:41.550] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 19172 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 08:57:41.552] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 08:57:42.547] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 08:57:44.037] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 08:57:44.050] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 08:57:45.947] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 08:57:48.172] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 08:57:49.039] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 8.186 seconds (JVM running for 9.61)
+INFO  [LabManage] [2020-07-23 08:57:49.569] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 08:57:49.571] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 08:57:49.820] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 09:05:47.937] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 15572 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 09:05:47.937] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 09:05:48.850] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 09:05:50.334] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 09:05:50.344] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 09:05:52.637] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 09:05:55.279] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 09:05:56.392] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 9.049 seconds (JVM running for 10.439)
+INFO  [LabManage] [2020-07-23 09:05:56.973] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 09:05:56.975] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 09:05:57.269] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 09:54:01.319] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 11788 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 09:54:01.319] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 09:54:02.399] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 09:54:03.977] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 09:54:03.977] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 09:54:06.259] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 09:54:07.906] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 09:54:08.848] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 8.142 seconds (JVM running for 9.796)
+INFO  [LabManage] [2020-07-23 09:54:09.301] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 09:54:09.301] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 09:54:09.384] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 09:59:36.984] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on LAPTOP-RBH3KSJH with PID 9748 (started by styj_ in C:\Users\styj_\Desktop\bcn-test)
+INFO  [LabManage] [2020-07-23 09:59:36.984] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 09:59:37.915] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 09:59:39.338] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 09:59:39.354] [main] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 09:59:41.213] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 09:59:42.836] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 09:59:43.633] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 7.231 seconds (JVM running for 8.55)
+INFO  [LabManage] [2020-07-23 09:59:44.071] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 09:59:44.071] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 09:59:44.086] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+INFO  [LabManage] [2020-07-23 11:00:49.023] [restartedMain] [com.gala.blockchain.BlockchainApplication] - Starting BlockchainApplication on DESKTOP-3P8AEHU with PID 9824 (F:\MySpringBootProject\bcn\target\classes started by brayden in F:\MySpringBootProject\bcn)
+INFO  [LabManage] [2020-07-23 11:00:49.027] [restartedMain] [com.gala.blockchain.BlockchainApplication] - No active profile set, falling back to default profiles: default
+INFO  [LabManage] [2020-07-23 11:00:49.205] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  [LabManage] [2020-07-23 11:00:49.206] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+WARN  [LabManage] [2020-07-23 11:00:50.469] [restartedMain] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 11:00:51.391] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 10000 (http)
+INFO  [LabManage] [2020-07-23 11:00:51.401] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] - Initializing ProtocolHandler ["http-nio-10000"]
+INFO  [LabManage] [2020-07-23 11:00:51.401] [restartedMain] [org.apache.catalina.core.StandardService] - Starting service [Tomcat]
+INFO  [LabManage] [2020-07-23 11:00:51.402] [restartedMain] [org.apache.catalina.core.StandardEngine] - Starting Servlet engine: [Apache Tomcat/9.0.35]
+INFO  [LabManage] [2020-07-23 11:00:51.487] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/webapi]] - Initializing Spring embedded WebApplicationContext
+INFO  [LabManage] [2020-07-23 11:00:51.487] [restartedMain] [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 2281 ms
+INFO  [LabManage] [2020-07-23 11:00:51.718] [restartedMain] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+WARN  [LabManage] [2020-07-23 11:00:51.720] [restartedMain] [com.zaxxer.hikari.util.DriverDataSource] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+INFO  [LabManage] [2020-07-23 11:01:03.209] [restartedMain] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 11:01:03.901] [restartedMain] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 11:01:04.162] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] - LiveReload server is running on port 35729
+INFO  [LabManage] [2020-07-23 11:01:04.179] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] - Starting ProtocolHandler ["http-nio-10000"]
+INFO  [LabManage] [2020-07-23 11:01:04.202] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 10000 (http) with context path '/webapi'
+INFO  [LabManage] [2020-07-23 11:01:04.213] [restartedMain] [com.gala.blockchain.BlockchainApplication] - Started BlockchainApplication in 15.962 seconds (JVM running for 17.558)
+INFO  [LabManage] [2020-07-23 11:02:33.759] [http-nio-10000-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/webapi]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  [LabManage] [2020-07-23 11:02:33.759] [http-nio-10000-exec-1] [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+INFO  [LabManage] [2020-07-23 11:02:33.770] [http-nio-10000-exec-1] [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 11 ms
+INFO  [LabManage] [2020-07-23 11:10:23.615] [main] [com.gala.blockchain.BlockchainApplicationTests] - Starting BlockchainApplicationTests on DESKTOP-3P8AEHU with PID 4536 (started by brayden in F:\MySpringBootProject\bcn)
+INFO  [LabManage] [2020-07-23 11:10:23.616] [main] [com.gala.blockchain.BlockchainApplicationTests] - No active profile set, falling back to default profiles: default
+WARN  [LabManage] [2020-07-23 11:10:24.405] [main] [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.gala.blockchain.*.mapper]' package. Please check your configuration.
+INFO  [LabManage] [2020-07-23 11:10:25.947] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+INFO  [LabManage] [2020-07-23 11:10:38.574] [main] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+INFO  [LabManage] [2020-07-23 11:10:41.053] [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 11:10:42.135] [main] [com.gala.blockchain.BlockchainApplicationTests] - Started BlockchainApplicationTests in 19.112 seconds (JVM running for 20.779)
+INFO  [LabManage] [2020-07-23 11:10:42.928] [SpringContextShutdownHook] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  [LabManage] [2020-07-23 11:10:42.929] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+INFO  [LabManage] [2020-07-23 11:10:56.447] [SpringContextShutdownHook] [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
